@@ -66,9 +66,7 @@ Future<void> init({
   );
 }
 
-// +++++++++++++++++++++
-// ++ CREATE CUSTOMER ++
-// +++++++++++++++++++++
+//create customer
 
 Future<Map<String, dynamic>?> createCustomer({
   required String name,
@@ -87,9 +85,7 @@ Future<Map<String, dynamic>?> createCustomer({
   return customerCreationResponse;
 }
 
-// ++++++++++++++++++++++++++
-// ++ SETUP PAYMENT INTENT ++
-// ++++++++++++++++++++++++++
+//create payment intent
 
 Future<Map<String, dynamic>?> createPaymentIntent(String customerId) async {
   final paymentIntentCreationResponse = await apiService(
@@ -104,9 +100,7 @@ Future<Map<String, dynamic>?> createPaymentIntent(String customerId) async {
   return paymentIntentCreationResponse;
 }
 
-// ++++++++++++++++++++++++
-// ++ CREATE CREDIT CARD ++
-// ++++++++++++++++++++++++
+//create credit card
 
 Future<void> createCreditCard(
   String customerId,
@@ -125,9 +119,7 @@ Future<void> createCreditCard(
   await Stripe.instance.presentPaymentSheet();
 }
 
-// +++++++++++++++++++++++++++++++++
-// ++ GET CUSTOMER PAYMENT METHOD ++
-// +++++++++++++++++++++++++++++++++
+//get customer payment methods
 
 Future<Map<String, dynamic>?> getCustomerPaymentMethods(
   String customerId,
@@ -140,9 +132,7 @@ Future<Map<String, dynamic>?> getCustomerPaymentMethods(
   return customerPaymentMethodsResponse;
 }
 
-// +++++++++++++++++++++++++
-// ++ CREATE SUBSCRIPTION ++
-// +++++++++++++++++++++++++
+//create subscription
 
 Future<Map<String, dynamic>?> createSubscription(
   String customerId,
