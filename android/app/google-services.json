@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "189433801005",
+    "project_id": "notifications-flutter-83be1",
+    "storage_bucket": "notifications-flutter-83be1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189433801005:android:8cd15d56a47522e90ccba4",
+        "android_client_info": {
+          "package_name": "com.example.flutter_notifications_video"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSVRc6KeYUMh86OOzFMvxw6EUZRrG8t38"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189433801005:android:6b85c74f86188ba00ccba4",
+        "android_client_info": {
+          "package_name": "com.example.langvify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSVRc6KeYUMh86OOzFMvxw6EUZRrG8t38"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
