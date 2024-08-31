@@ -35,3 +35,5 @@ Subscription based service Planing
 4. Handle user subscriptions in the app (This will be  done in the client side but it is not recommended , make sure to do this in the server side use cloud functions or separate server)
 5. Handle Premium state of the user in the app using provider state management
 
+![image](https://github.com/HGSChandeepa/Flutter-SaaS-Application/blob/main/diagramm.png) 
+
