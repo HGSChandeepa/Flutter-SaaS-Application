@@ -1,4 +1,4 @@
-# Flutter Application (Software as a service) with AL ML and Stripe Payments
+# Flutter Application (Software as a service) with AI ML and Stripe Payments
 
 This is a Flutter application that is a software as a service application that uses AL and ML to extract the text from an image that we are providing. The application also uses Stripe Payments to allow users to pay for the service. The application is built using Flutter and Dart.Here this is a Flutter application that is a software as a service application that uses AL and ML to extract the text from an image that we are providing. The application also uses Stripe Payments to allow users to pay for the service. 
 
