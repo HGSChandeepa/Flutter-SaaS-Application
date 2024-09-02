@@ -3,7 +3,7 @@
 This is a Flutter application that is a software as a service application that uses AL and ML to extract the text from an image that we are providing. The application also uses Stripe Payments to allow users to pay for the service. The application is built using Flutter and Dart.Here this is a Flutter application that is a software as a service application that uses AL and ML to extract the text from an image that we are providing. The application also uses Stripe Payments to allow users to pay for the service. 
 
 ### 📂[Notes🔗]https://docs.google.com/document/d/1gCqUmBU_hzYY00RHSaJgkaw_TmGxevx2xHy9XI8J_IU/edit?usp=sharing
-### 📂[Architecture Diagramms🔗]https://drive.google.com/file/d/1jqWRXeOfGyeuq7jaOKvNMyFUC9rx8CB2/view?usp=sharing](https://app.eraser.io/workspace/SdsFYPOFzlVjXJLqrj1F?origin=share)
+### 📂[Architecture Diagramms🔗]https://app.eraser.io/workspace/SdsFYPOFzlVjXJLqrj1F?origin=share
 
 ## Features
 
