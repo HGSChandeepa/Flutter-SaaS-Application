@@ -3,9 +3,8 @@ import 'package:flutter_stripe/flutter_stripe.dart';
 import 'package:langvify/services/stripe/service.dart';
 import 'package:langvify/services/stripe/stripe_storeage.dart';
 
-// +++++++++++++++++++++++++++++++++++
-// ++ STRIPE PAYMENT INITIALIZATION ++
-// +++++++++++++++++++++++++++++++++++
+
+//STRIPE PAYMENT INITIALIZATION 
 
 Future<void> init({
   required String name,
